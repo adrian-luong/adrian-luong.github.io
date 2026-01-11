@@ -22,7 +22,7 @@
 
 ## Version 2: Blender scene & objects
 
-* Keyboard controls (for PC) & Footer Joystick (for mobile): 
+* Keyboard controls (for PC) & Footer Joystick (for mobile):
   * WASD: scroller
   * Arrows: camera
 * Speed control & Left-handed mode (swap joystick's position)
@@ -39,29 +39,27 @@
     * The website (meta): as a horse statue
     * Summary: as a red book on a desk
 
-## Version 3: 3D interactive made in Blender
-(I have no idea how I would develop and design this version. Have no expectation)
+## Version 3: 3D interactive made in Blender (Last)
 
 * Orthographic camera and logical lightning
-* Keyboard controls for the scroller and camera on PC
-* Display ghostly (appear when touching) joysticks on mobile
-
-* Header consists of: 
-  * Home button (reset everything in the game) 
+* Header consists of:
+  * Home button (reset everything in the game)
   * Settings button (color mode switch, language select, speed control)
-* Footer: some other stuffs that is unrelated to the content of this site
-* Pointer and highlight to clickable objects 
+* Footer: display the content of this site
+* Highlight on clickable objects
 
-* Blender scenes and objects (made personally, I hope), arranged into rooms:
-  * Reception: 
-    * Wall panels: How-to-play (which keys to control what)
-    * Banners with my Kamon symbol: Summary
-    * Doors: navigation to other content (client-side)
-    * Decorations beneath the Banners: Social media links
-  * Gallery:
-    * Paintings: my opinion about my own designs
-    * A statue or something in the center: my opinion about the website
+* Blender scenes and objects, arranged into rooms:
+  * Reception:
+    * Red book: Summary or About, including social media account & contacts
+    * Trophy: My supporters
+  * Gallery: work of code and designs
+    * Paintings: my designs & other comission work
+    * Display cases: other version of this website
   * Library, with 2 rows of bookshelves: Blogs and Substack links to my Writings
     * Front row: Nguoi Xa La's content (short stories & narrative essays)
     * Back row: Ke Dai Kho's content (code tutorials & guides)
   * ???
+
+## Version 4: ???
+
+(No more R3F. I'm struggling to make it responsive. And at one point, I'll give up on making this nonsense of a site)
