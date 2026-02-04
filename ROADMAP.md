@@ -77,6 +77,8 @@
 * Footer:
   * Local navigation between sections of the site, again.
   * Contacts and external links.
+* Sidebar:
+  * Function likes the Footer above until I can think of something else
 
 * The damned site should have some animations for the sections first.
 * And R3F some time in the future. Maybe for a blog page.
