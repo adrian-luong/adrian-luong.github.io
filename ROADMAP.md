@@ -62,4 +62,21 @@
 
 ## Version 4: ???
 
-(No more R3F. I'm struggling to make it responsive. And at one point, I'll give up on making this nonsense of a site)
+* Typical website that AI should be able to generate.
+* I give up with the localization, use whatever damned AI plugin to translate the site into your prefered language.
+* Header:
+  * Local navigation between sections of the site.
+  * Dark-light switch mode.
+* Contents:
+  * Me, I guess.
+  * My certificate and experience, if that matters.
+  * My writings.
+  * The history of the so-called portfolio website, aka. whatever the heck you're looking at.
+  * My commission works, at least one of them is me-commissioned.
+  * The names of supporters.
+* Footer:
+  * Local navigation between sections of the site, again.
+  * Contacts and external links.
+
+* The damned site should have some animations for the sections first.
+* And R3F some time in the future. Maybe for a blog page.
