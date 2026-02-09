@@ -12,3 +12,7 @@ This website is the only thing that I can keep to consistently develop until thi
 
 I don't know which will perist first, me or the site. Well, who cares, we're stuck here on Earth until the very end.
 Expect the site to have something 3D since I'm obsessed with WebGL technology, and AI is incapable of doing that kind of website at the moment.
+
+At one point in the future, I would have to give up from the development since nobody gives a damn about this thing.
+AI can do better for a typical site (if you know for sure the hell you want).
+A 3D site takes too much work (doing both the work of 3D Designer and Web Developer is no joke) for no significant result, aka. I'm still nobody.

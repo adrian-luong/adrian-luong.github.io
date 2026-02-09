@@ -39,7 +39,7 @@
     * The website (meta): as a horse statue
     * Summary: as a red book on a desk
 
-## Version 3: 3D interactive made in Blender (Last)
+## Version 3: 3D interactive made in Blender
 
 * Orthographic camera and logical lightning
 * Header consists of:
@@ -58,12 +58,13 @@
   * Library, with 2 rows of bookshelves: Blogs and Substack links to my Writings
     * Front row: Nguoi Xa La's content (short stories & narrative essays)
     * Back row: Ke Dai Kho's content (code tutorials & guides)
-  * ???
+  * Responsiveness nightmare
 
-## Version 4: ???
+## Version 4: Typical website that AI can generate if you clearly know what the hell you want
 
 * Typical website that AI should be able to generate.
-* I give up with the localization, use whatever damned AI plugin to translate the site into your prefered language.
+* I'm tired with the localization, use whatever damned AI plugin or just Google Translate to translate the site into your prefered language.
+* See the amount of animations and be amazed, or confused, or the site is now laggy and buggy.
 * Header:
   * Local navigation between sections of the site.
   * Dark-light switch mode.
@@ -80,5 +81,5 @@
 * Sidebar:
   * Function likes the Footer above until I can think of something else
 
-* The damned site should have some animations for the sections first.
 * And R3F some time in the future. Maybe for a blog page.
+* Or I should give up from this nonsense forever, as if people give a damn about this shit.
