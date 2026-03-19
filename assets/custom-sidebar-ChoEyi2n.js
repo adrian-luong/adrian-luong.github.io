@@ -1,1 +1,0 @@
-import{s as e}from"./vendor-V9MaUR72.js";import"./react-B_zPn6yK.js";import"./tailwind-BZDE3JLv.js";import"./fortawesome-DEF3Ckzk.js";export{e as default};
