@@ -1,3 +1,0 @@
-:HL["/_next/static/chunks/cd71058aa6a8bf59.css","style"]
-:HL["/ai-lingo.jpeg","image"]
-0:{"buildId":"hoyYllp88puhYOL9QZv1U","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
