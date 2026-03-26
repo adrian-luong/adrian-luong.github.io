@@ -1,1 +1,0 @@
-import{m as e}from"./vendor-Bc6JDtu2.js";import"./react-DrVSTJG3.js";import"./tailwind-DtQFFPE0.js";export{e as default};
